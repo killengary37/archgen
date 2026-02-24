@@ -45,7 +45,7 @@ export default function Home() {
             </p>
 
             <div className="actions">
-                <a href="upload" className="cta">
+                <a href="#upload" className="cta">
                     Start Building <ArrowRight className="icon" />
                 </a>
 
